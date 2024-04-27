@@ -1,4 +1,4 @@
-1- helm uninstall prometheus --namespace promatehus
+1- helm uninstall prometheus --namespace prometheus
 
 2- kubectl delete ns prometheus
 
