@@ -6,7 +6,7 @@
 
 4- kubectl delete ns grafana
 
-5- kubectl delete dep.app/my-nginx -n mse
+5- kubectl delete deployment.apps/my-nginx -n mse
 
 6- kubectl delete service/my-nginx-svc -n mse
 
